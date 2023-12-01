@@ -1,3 +1,3 @@
-module TestProject
+module GoLeaning
 
 go 1.21
